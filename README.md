@@ -1,3 +1,4 @@
-# Simple Web app
+# Simple Grocry PWA
+A simple webapp to do your groceries
 
-+ TODO: Before deploying add your link to the realtime db in firebase in index.js
++ Before deploying add your link to the realtime db in firebase in index.js
